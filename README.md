@@ -40,7 +40,7 @@ Java 8 o superiore
 Un IDE qualsiasi o semplicemente un terminale con javac e java
 
 ✅ Esempio di 
-  1 |  2 |  3 |  4
+  1  |   2  |   3  |   4
   
 ----+----+----+----
 
