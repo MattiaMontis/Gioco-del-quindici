@@ -34,20 +34,6 @@ vinto(): verifica se la griglia è ordinata
 
 gioca(): contiene il ciclo principale del gioco
 
-✅ Esempio di gioco
-
-
-  1 |  2 |  3 |  4
-  
---+---+---+--
-  5 |  6 |  7 |  8
-----+----+----+----
-  9 | 10 | 11 | 12
-----+----+----+----
- 13 | 14 | 15 |  0
-
-Complimenti! Hai vinto!
-
 
 🧠 Obiettivi personali
 Questo progetto è stato sviluppato per:
