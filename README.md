@@ -1,4 +1,4 @@
-#🧩 Gioco del Quindici (Sliding Puzzle 4x4)
+🧩 GIOCO DEL QUINDICI (Sliding Puzzle 4x4)
 
 Questo è un semplice progetto in Java che implementa il classico Gioco del Quindici (15 Puzzle), il celebre rompicapo a griglia scorrevole. È una versione da terminale scritta per esercitarmi con la logica e la gestione di array bidimensionali.
 
