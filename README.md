@@ -41,11 +41,17 @@ Un IDE qualsiasi o semplicemente un terminale con javac e java
 
 ✅ Esempio di 
   1 |  2 |  3 |  4
+  
 ----+----+----+----
+
   5 |  6 |  7 |  8
+  
 ----+----+----+----
+
   9 | 10 | 11 | 12
+  
 ----+----+----+----
+
  13 | 14 | 15 |  0
 
 Complimenti! Hai vinto!
